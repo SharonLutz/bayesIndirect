@@ -6,7 +6,7 @@ The bayesIndirect R package examines the indirect effect of a SNP on the outcome
 install.packages("devtools") #The devtools package must be installed first
 install.packages("coda") #The coda package must be installed first
 
-devtools::install_github("SharonLutz/software/bayesIndirect")
+devtools::install_github("SharonLutz/bayesIndirect")
 ```
 #### Example
 For the given dataset, one can test if the SNP acts on forced explanatory volume (FEV) through the intermediate phenotype, cigarette smoking (smoke) after adjusting for age and gender. The code below runs this analysis.
