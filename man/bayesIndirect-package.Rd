@@ -1,0 +1,10 @@
+\name{bayesIndirect-package}
+\alias{bayesIndirect-package}
+\alias{bayesIndirect-pkg}
+\docType{package}
+\title{
+\packageTitle{bayesIndirect}
+}
+\description{
+\packageDescription{bayesIndirect}
+}

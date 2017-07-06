@@ -1,0 +1,9 @@
+Package: bayesIndirect
+Type: Package
+Title: Runs the bayesIndirect Function
+Version: 1.0
+Date: 2017-06-15
+Author: Sharon Lutz, Annie Thwing
+Maintainer: Annie Thwing <annie.thwing@ucdenver.edu>
+Description: The bayesIndirect function examines the indirect effect of a SNP on the outcome through the mediator in a Bayesian framework with a spike and slab prior.
+License: GPL-2
