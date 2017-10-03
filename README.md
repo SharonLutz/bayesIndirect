@@ -45,3 +45,4 @@ sig2    0.992504  1.049987  1.081790  1.1154274 1.1828478
 ```
 #### Reference
 **Lutz SM**, Hokanson JE, Sharma S, Weiss S, Raby B, Lange C. (2013) On the Integration of Expression Profiles in Genetic Association Studies: A Bayesian Approach to Determine the Path from Gene to Disease. *Open Journal of Genetics*. 3(3).
+
